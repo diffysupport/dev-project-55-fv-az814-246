@@ -1,7 +1,7 @@
 basic:
-    name: 'Stanton and Sons'
+    name: Bosco-Rath
     environments:
-        production: 'https://greenholt.com/ex-incidunt-tempore-labore-ab-repellat.html'
+        production: 'https://cremin.com/quam-quod-voluptas-doloremque-nisi-eaque-et-rem.html'
         staging: ''
         development: ''
     breakpoints:
@@ -24,9 +24,14 @@ advanced:
     custom_js: ''
     custom_css: ''
     mock_content: ''
+    sensitivity: 15
+    night_mode: ''
+    retina_images: ''
     performance:
         workers_production: 30
         workers_nonproduction: 10
         workers_production_delay: 0
         workers_nonproduction_delay: 0
     stabilize: true
+proxy: false
+type: single-site
